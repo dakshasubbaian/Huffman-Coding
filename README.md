@@ -1,4 +1,4 @@
-# EX 10: Implementation of the Huffman Coding Algorithm
+# EX 11: Implementation of the Huffman Coding Algorithm
 
 ## DEVELOPED BY:
 ## NAME: DAKSHA SUBBAIAN
